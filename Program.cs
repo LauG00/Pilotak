@@ -43,6 +43,8 @@
             {
                 string[] adatok = adatsor.Split(';');
 
+
+                  léáp
                 Nev = adatok[0];
                 SzuletesiDatum = DateTime.Parse(adatok[1]);
                 Nemzetiseg = adatok[2];
